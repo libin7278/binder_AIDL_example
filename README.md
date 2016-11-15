@@ -1,0 +1,2 @@
+# binder_AIDL_example
+Android中的跨进程通信机制与AIDl
